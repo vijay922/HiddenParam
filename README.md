@@ -8,7 +8,6 @@ To use the Go code provided, follow these steps:
 - Create a new directory: Create a new directory for your Go project.
 
 - Initialize Go module: Open a terminal or command prompt, navigate to the project directory you created, and run the following command to initialize the Go module:
-- 
 ```
 go mod init main.go
 ```
