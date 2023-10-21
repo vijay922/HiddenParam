@@ -1,11 +1,11 @@
 # HiddenParam
 The code provided is a Go program that reads a list of URLs from a file, sends HTTP GET requests to each URL, parses the HTML content of the responses, appends hidden input field values to the URLs, and writes the modified URLs to an output file.
 
-o use the Go code provided, follow these steps:
+To use the Go code provided, follow these steps:
 
-Install Go: Download and install Go from the official website (https://golang.org/) based on your operating system.
+- Install Go: Download and install Go from the official website (https://golang.org/) based on your operating system.
 
-Create a new directory: Create a new directory for your Go project.
+- Create a new directory: Create a new directory for your Go project.
 
 Initialize Go module: Open a terminal or command prompt, navigate to the project directory you created, and run the following command to initialize the Go module:
 
